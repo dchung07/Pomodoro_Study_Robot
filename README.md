@@ -5,4 +5,4 @@ Arduino study robot to facilitate learning
 - Study Timer (Pomodoro) with beeping alert
 - Reaction Time Game (Entertainment)
 
-<img src="images/study_robot_2.jpg" width="480">
+<img src="images/study_robot_2.jpg" width="480" height="400">
